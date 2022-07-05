@@ -1,0 +1,2 @@
+../Core/Src/osqp/util.c:6:13:osqp_version	4	static
+../Core/Src/osqp/util.c:20:6:c_strcpy	24	static

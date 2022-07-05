@@ -1,0 +1,2 @@
+../Core/Src/osqp/proj.c:4:6:project	40	static
+../Core/Src/osqp/proj.c:16:6:project_normalcone	64	static
