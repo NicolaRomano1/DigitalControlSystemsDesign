@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nicol\Desktop\ProgettoDCSD\OSQP-C-code-generation\code\build\CMakeFiles\c0ad8a3d80d519d8ca32e4c4db98e1ad\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4FA25E10-68EA-3197-BF66-C170015C2312}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
